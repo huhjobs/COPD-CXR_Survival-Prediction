@@ -1,0 +1,5 @@
+torchtuples
+pytest>=4.0.2
+lifelines>=0.22.8
+sklearn-pandas>=1.8.0
+pycox
